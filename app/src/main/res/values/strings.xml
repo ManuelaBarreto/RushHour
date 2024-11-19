@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RushHours</string>
+    <string name="rush">Rush</string>
+    <string name="hours">H🕐urs</string>
+    <string name="button_play">Play</string>
+    <string name="button_levels">Levels</string>
+    <string name="button_sound">🔊</string>
+    <string name="logo">Logo</string>
+    <string name="time">🕐</string>
+    <string name="finish_level_btn">Go!</string>
+    <string name="tabuleiro">tabuleiro</string>
+</resources>
